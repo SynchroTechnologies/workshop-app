@@ -15,7 +15,7 @@ Abarcaremos:
 
 ## Arquitectura de la aplicación
 
-< Diagrama de Arquitectura >
+![Arquitectura Workshop APP](./workshop.app.drawio.png)
 
 La aplicación cuenta con un Single Page Application (SPA) contenida en un único archivo .html, que encapsula el contenido, los estilos y los scripts Javascript para la ejecución.
 La aplicación se descarga, y corre íntegramente en el browser.
